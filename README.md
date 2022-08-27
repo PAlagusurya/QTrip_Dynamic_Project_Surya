@@ -1,2 +1,2 @@
-# QTrip_Static_Project_Surya
+# QTrip_Dynamic_Project_Surya
 Dynamic travel Website
